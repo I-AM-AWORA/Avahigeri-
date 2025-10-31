@@ -10,3 +10,8 @@ Github'ı seçmemde ki temel sebep onun verileri depolama, düzenleme ve yenilem
 
 The fundamental reason I chose GitHub is that it is a perfect system for storing, organizing, and updating data. The fact that I can maintain its order as a repository and share it with others whenever I want led me to use GitHub. However, I must state that the main purpose here is to provide structure, because we will be compiling and organizing the things that already exist here, thereby overcoming my problem of not being able to write a book. We will achieve this not by wasting effort on something we couldn't achieve, but by showing how to create something better than it. Undoubtedly, everything is subject to evolution and change.
 
+---
+
+# Maksat
+
+Bu yazıları yazmamın ardında 
