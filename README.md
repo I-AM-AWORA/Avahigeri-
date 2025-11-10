@@ -14,4 +14,4 @@ The fundamental reason I chose GitHub is that it is a perfect system for storing
 
 # Maksat
 
-Bu yazıları yazmamın ardında 
+Her düşünür gibi bende felsefemi anlatmak, diğer insanlara duyurmak ve literatüre dahil etmek amacı taşırım. Bu yolda aslen yaygın yöntem kitap yazmak olsada, kitaplar ile bir şeyi anlatmanın bir hayli zor olduğunu düşünmekteyim. Bu yüzdendir ki tıpkı işletim sistemleri gibi felsefemi de linux kernel sisteminden esinlenerek bir sistem olarak tasarlamanın peşindeyim. 
